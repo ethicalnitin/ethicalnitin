@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ethicalnitin
+- 👀 I’m interested in cloud computing, DevOps, automation toools, full stack, crypto, blockchain and AI.
+- 🌱 I’m currently learning Kubernetes, Docker, and Terraform to enhance my DevOps skillset and trying to have better grasp at DSA everyday
+- 📫 How to reach me: [Email](mailto:ethicalnitinhere@gmail.com) | [LinkedIn](https://linkedin.com/in/ethicalnitin) | [GitHub](https://github.com/ethicalnitin)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love optimizing everything!

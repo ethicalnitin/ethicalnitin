@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake.svg">
+</picture>
+
 Backend engineer building secure, fast REST APIs with Java/Spring Boot and Node.js.
 
 - 🛠️ **Now:** Software Engineer @ LTIMindtree, building a full-stack platform with Java 17, Spring Boot 3, Spring Security (JWT + RBAC) and Angular 16, and analysing app network traffic with Wireshark on a Google security engagement

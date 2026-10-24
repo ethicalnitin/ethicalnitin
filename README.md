@@ -27,7 +27,7 @@ I'm a Computer Science graduate with professional experience in software enginee
 ### Software Engineer — LTIMindtree
 
 - Worked on application security analysis for a Google client engagement, reviewing application network traffic and backend API communications.
-- Used tools such as Wireshark and HTTP Toolkit to inspect HTTP/HTTPS requests and investigate potentially malicious application behavior.
+- Used Wireshark and HTTP Toolkit to inspect HTTP/HTTPS requests and investigate potentially malicious application behavior.
 - Reviewed approximately 10 applications per day as part of application security assessment workflows.
 - Examined API requests and backend communication patterns to support the identification of suspicious activity.
 
@@ -36,6 +36,7 @@ I'm a Computer Science graduate with professional experience in software enginee
 ## 🚀 Projects
 
 ### EstateConnect
+
 A full-stack application developed using Java and modern web technologies.
 
 - Built application functionality using Spring Boot, Angular, REST APIs, JPA/Hibernate, and MySQL.
@@ -43,6 +44,7 @@ A full-stack application developed using Java and modern web technologies.
 - Focused on maintainable application structure and reliable API communication.
 
 ### Dexter Luxuries / ChartVault
+
 A subscription-based digital storefront built with a modern web stack.
 
 - Developed a React frontend and Node.js/Express backend.

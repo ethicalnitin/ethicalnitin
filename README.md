@@ -1,26 +1,93 @@
-<div align="center">
-  <img src="./commit-pet.svg" width="180" alt="My animated pixel pet Puni" />
-</div>
+# Hi, I'm Nitin Srivastava 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake.svg">
-</picture>
+### Software Engineer | Backend Development | Full-Stack Engineering
 
-Backend engineer building secure, fast REST APIs with Java/Spring Boot and Node.js.
+I'm a Computer Science graduate with professional experience in software engineering, backend development, REST APIs, and application security. I enjoy building practical, scalable applications and improving software reliability, performance, and security.
 
-- 🛠️ **Now:** Software Engineer @ LTIMindtree, building a full-stack platform with Java 17, Spring Boot 3, Spring Security (JWT + RBAC) and Angular 16, and analysing app network traffic with Wireshark on a Google security engagement
-- ⚖️ **Shipped:** Sole backend dev of [Jurident](https://www.jurident.com/), an AI legal-tech platform used daily by 10,000+ lawyers at 99.9% uptime. I built its Node.js/MongoDB backend, High Court data integrations and an OpenAI-powered legal chatbot (MSME Hackathon winner 🏆)
-- 🛒 **Side project:** Built and run [Dexter Luxuries](https://github.com/ethicalnitin/dexterluxuries), a live MERN e-commerce store with Razorpay payments, serving 150,000+ users
-- 🧠 **DSA:** 400+ problems solved, [LeetCode peak 1733](https://leetcode.com/raptormafia/)
-- 🎓 **Certs:** Generative AI (Google) · API Fundamentals (Postman)
+- 💻 Interested in backend engineering, full-stack development, and application security.
+- 🚀 Building projects that combine practical problem-solving with modern technologies.
+- 🌱 Continuously improving my skills in data structures, algorithms, system design, and software engineering.
+- 📍 India
 
-**Languages:** `Java` `JavaScript` `TypeScript` `SQL` `C++`
-**Backend:** `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Node.js` `Express` `JWT`
-**Frontend:** `Angular` `React`
-**Data:** `MySQL` `MongoDB` `Firebase`
-**AI & Integrations:** `OpenAI API` `Gemini API` `Razorpay`
-**Tools:** `Git` `Docker` `Postman` `Wireshark` `HTTP Toolkit`
+---
 
-📫 [Email](mailto:srivastava.nitin0908@gmail.com) · [LinkedIn](https://linkedin.com/in/ethicalnitin) · [Portfolio](https://portfolioreact1.vercel.app/)
+## 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, SQL  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs  
+**Frontend:** React.js, HTML5, CSS3  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, Wireshark, HTTP Toolkit  
+**Other:** API testing, application security analysis, debugging
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer — LTIMindtree
+
+- Worked on application security analysis for a Google client engagement, reviewing application network traffic and backend API communications.
+- Used tools such as Wireshark and HTTP Toolkit to inspect HTTP/HTTPS requests and investigate potentially malicious application behavior.
+- Reviewed approximately 10 applications per day as part of application security assessment workflows.
+- Examined API requests and backend communication patterns to support the identification of suspicious activity.
+
+---
+
+## 🚀 Projects
+
+### EstateConnect
+A full-stack application developed using Java and modern web technologies.
+
+- Built application functionality using Spring Boot, Angular, REST APIs, JPA/Hibernate, and MySQL.
+- Worked with frontend-backend integration and database-driven application workflows.
+- Focused on maintainable application structure and reliable API communication.
+
+### Dexter Luxuries / ChartVault
+A subscription-based digital storefront built with a modern web stack.
+
+- Developed a React frontend and Node.js/Express backend.
+- Integrated MongoDB for data storage and Razorpay for payment processing.
+- Worked with authentication, product catalog management, email communication, and deployment workflows.
+- Focused on responsive UI, API reliability, and improving the customer purchasing experience.
+
+---
+
+## 📅 GitHub Contributions — 2025
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/main/contributions-2025.svg"
+    alt="GitHub contribution heatmap for calendar year 2025"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>A calendar-year snapshot of my GitHub contributions in 2025.</i>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [@ethicalnitin](https://github.com/ethicalnitin)
+- **Email:** Add your professional email address here
+- **LinkedIn:** Add your LinkedIn profile URL here
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>

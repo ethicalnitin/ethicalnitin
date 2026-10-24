@@ -1,0 +1,32 @@
+name: Generate 2025 Contribution Chart
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 1 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate chart
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate-contributions.py
+
+      - name: Commit chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contributions-2025.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update 2025 contribution chart"
+            git push
+          fi

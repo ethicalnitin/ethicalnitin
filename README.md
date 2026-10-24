@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./commit-pet.svg" width="180" alt="My animated pixel pet Puni" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethicalnitin/ethicalnitin/github-snake/github-snake.svg">

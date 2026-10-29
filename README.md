@@ -2,7 +2,7 @@ Backend engineer building secure, fast REST APIs with Java/Spring Boot and Node.
 
 - 🛠️ **Now:** Software Engineer @ LTIMindtree, building a full-stack platform with Java 17, Spring Boot 3, Spring Security (JWT + RBAC) and Angular 16, and analysing app network traffic with Wireshark on a Google security engagement
 - ⚖️ **Shipped:** Sole backend dev of [Jurident](https://www.jurident.com/), an AI legal-tech platform used daily by 10,000+ lawyers at 99.9% uptime. I built its Node.js/MongoDB backend, High Court data integrations and an OpenAI-powered legal chatbot (MSME Hackathon winner 🏆)
-- 🛒 **Side project:** Built and run [Dexter Luxuries](https://github.com/ethicalnitin/dexterluxuries), a live MERN e-commerce store with Razorpay payments, serving 150,000+ users
+- 🛒 **Side project:** Built and run MY STORE(https://github.com/ethicalnitin/dexterluxuries), a live MERN e-commerce store with Razorpay payments, serving 150,000+ users
 - 🧠 **DSA:** 400+ problems solved, [LeetCode peak 1733](https://leetcode.com/raptormafia/)
 - 🎓 **Certs:** Generative AI (Google) · API Fundamentals (Postman)
 
